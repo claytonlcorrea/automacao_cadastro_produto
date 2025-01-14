@@ -1,4 +1,4 @@
-# Descrição do Projeto: Automação de Preenchimento de Formulários com Python
+# Automação de login e cadastro de produtos com Python
 Este projeto visa demonstrar uma aplicação prática da automação de tarefas repetitivas utilizando o Python. Utilizando as bibliotecas pyautogui e pandas, o script é capaz de realizar o login em uma plataforma web e preencher formulários automaticamente a partir de dados contidos em um arquivo CSV.
 Funcionalidades Principais:
 
